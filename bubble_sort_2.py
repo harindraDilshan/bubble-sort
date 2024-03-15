@@ -9,3 +9,5 @@ def bubble_sort(arr):
 arr = [12, 6, 7, 8, 10, 2, 9]
 
 print(bubble_sort(arr))
+
+# I love learn algorithm ...... 
